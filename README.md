@@ -8,8 +8,6 @@
 
 A haiku is a poem that consists of three lines. The first has five syllables, the second has seven, and the third has five.
 
-Your logic should verify that the poem has three lines.
-Your logic should verify English syllable rules (and exceptions) one at a time. A quick Google search will provide information on English syllable rules
 
 ## Specifications:
 
